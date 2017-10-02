@@ -7,3 +7,4 @@ the branch of master and feature1
 2222222222
 the test of --no-ff
 1,ff
+2.--no-ff
