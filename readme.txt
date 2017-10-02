@@ -6,3 +6,4 @@ feature1
 111111111
 the test of --no-ff
 1,ff
+2.--no-ff
