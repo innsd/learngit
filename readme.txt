@@ -8,3 +8,4 @@ the branch of master and feature1
 the test of --no-ff
 1,ff
 2.--no-ff
+2018.2
